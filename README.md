@@ -1,5 +1,6 @@
 # ML
 - Week 1 Programs:
-  • Introduction to Python & NumPy
+  •A Pandas DataFrame is a 2D table of data with rows (index) and columns (labels).
+   Introduction to Python & Pandas
   • Data analysis using Pandas
-  • Visualization using Matplotlib & Seaborn
+  
