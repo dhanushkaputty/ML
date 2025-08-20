@@ -6,5 +6,6 @@
 
 
   #Week4
+  Embedded Methods,Wrapper Methods
   PCA,LDA,Regression Linear,Polynomial Regression,Logistic Regression
   
